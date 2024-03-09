@@ -1,0 +1,32 @@
+{
+  "name": "dable-dialog",
+  "version": "1.0.0",
+  "description": "Simple dialog component for dable effect",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dableburdo/dable-dialog.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dable-ttlframe" : "1.0.0",
+    "dable-modalfil" : "1.0.0",
+    "dable-button"   : "1.0.0",
+    "dable-event-clkfocus": "1.0.0",
+    "dable-event-visiclick" : "1.0.0",
+    "dable-effect-hrzpos" : "1.0.0",
+    "dable-effect-vrtpos" : "1.0.0",
+    "dable-effect" : "1.0.0"
+  },
+  "keywords": [
+    "front-end", "effect", "dialog", "simple dialog"
+  ],
+  "author": "dable author",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dableburdo/dable-dialog/issues"
+  },
+  "homepage": "https://github.com/dableburdo/dable-dialog#readme"
+}
