@@ -1,6 +1,6 @@
 {
   "name": "dable-dialog",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Simple dialog component for dable effect",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,10 @@
     "dable-effect-hrzpos" : "1.0.0",
     "dable-effect-vrtpos" : "1.0.0",
     "dable-effect" : "1.0.0",
-    "firan-logging":"^1.0.0"
+    "firan-logging":"^1.0.0",
+    "dable-button-error": "1.0.0",
+    "dable-button-confirm": "1.0.0"
+
   },
   "keywords": [
     "front-end", "effect", "dialog", "simple dialog"
